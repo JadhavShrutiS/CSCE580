@@ -88,10 +88,10 @@ new_height = 150  # replace with your desired height
 predicted_weight = model.predict([[new_height]])
 print(f"Predicted weight for height {new_height} cm: {predicted_weight[0]:.2f} kg")
 
-new_height = 200  # replace with your desired height
+new_height = 170  # replace with your desired height
 predicted_weight = model.predict([[new_height]])
 print(f"Predicted weight for height {new_height} cm: {predicted_weight[0]:.2f} kg")
 
-new_height = 250  # replace with your desired height
+new_height = 190  # replace with your desired height
 predicted_weight = model.predict([[new_height]])
 print(f"Predicted weight for height {new_height} cm: {predicted_weight[0]:.2f} kg")

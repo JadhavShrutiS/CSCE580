@@ -1,0 +1,13 @@
+model_name,metric_name,score,passed_threshold,threshold_applied,generated_text,reference_text
+ChatGPT,Jaccard,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+ChatGPT,ROUGE_rouge1,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+ChatGPT,ROUGE_rouge2,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+ChatGPT,ROUGE_rougeL,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+POE,Jaccard,0.0,False,0.5,"49.5, 63.5, 80.5","53.0, 70.0, 82.0"
+POE,ROUGE_rouge1,0.0,False,0.5,"49.5, 63.5, 80.5","53.0, 70.0, 82.0"
+POE,ROUGE_rouge2,0.0,False,0.5,"49.5, 63.5, 80.5","53.0, 70.0, 82.0"
+POE,ROUGE_rougeL,0.0,False,0.5,"49.5, 63.5, 80.5","53.0, 70.0, 82.0"
+DeepSeek R1,Jaccard,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+DeepSeek R1,ROUGE_rouge1,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+DeepSeek R1,ROUGE_rouge2,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
+DeepSeek R1,ROUGE_rougeL,0.0,False,0.5,"49.5, 63.6, 79.4","53.0, 70.0, 82.0"
