@@ -10,14 +10,18 @@ Objective of this test case is to evaluate AI's ability to predict weight given 
 150cm, 170cm, 190cm"
 
 **Before data provision
+
 Reference Values Directly from Samples:
+
 Reference output will be the following as they are collected from real samples.
 H 150cm, W: 53kg
 H 170 cm, W: 70 kg
 H 190 cm, W: 82kg
 
 **After data provision
+
 Prediction from Self Script:
+
 Collected from prediction made by my classical regression script based on the samples.
 H 150cm, W:69.92kg
 H 170 cm, W: 83.97 kg
@@ -27,6 +31,7 @@ H 190 cm, W: 98.02kg
 
 ### Run 1: Using Chatgpt
 **Before Data provision
+
 If you want the BMI 22 approach (a common “ideal” reference weight):
 Predicted weights (BMI 22 “ideal” reference):
 150 cm → 49.5 kg
@@ -34,6 +39,7 @@ Predicted weights (BMI 22 “ideal” reference):
 190 cm → 79.4 kg
 
 **After Data provision
+
 Based on your dataset (after removing extreme outliers), the predicted weights are:
 150 cm → 56.9 kg
 170 cm → 74.5 kg
@@ -41,14 +47,17 @@ Based on your dataset (after removing extreme outliers), the predicted weights a
 Would you like me to also show you the linear formula (kg = a × height + b) so you can use it for other heights?
 
 ### Run 2: Using Poe
-**Before Data provision
+**Before Data provision-
+
 Assuming an average healthy BMI of around 22, we can estimate the weights for the given heights.
+
 Summary of Weights
 150 cm: ~49.5 kg
 170 cm: ~63.5 kg
 190 cm: ~80.5 kg
 
-**After Data provision
+**After Data provision-
+
 Given the existing data, we could estimate the weights as follows:
 
 For 150 cm: 53 kg (actual data point)
@@ -56,13 +65,15 @@ For 170 cm: 70 kg (actual data point)
 For 190 cm: 81.5 kg (actual data point)
 
 ### Run 3: using Deepseek R1
-**Before Data provision
+**Before Data provision-
+
 Summary of Predictions:
 150 cm: 49.5 kg
 170 cm: 63.6 kg
 190 cm: 79.4 kg
 
 **After Data provision
+
 Summary of Predictions:
 150 cm: 68.6 kg
 170 cm: 76.4 kg
