@@ -1,0 +1,66 @@
+{
+  "ingredients": [
+    {
+      "category": "Cheeses",
+      "items": [
+        {
+          "name": "Cream",
+          "quantity": "3 oz"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "6 oz"
+        },
+        {
+          "name": "Monterey Jack",
+          "quantity": "8 oz"
+        },
+        {
+          "name": "Smoked Gouda",
+          "quantity": "12 oz",
+          "state": "divided",
+          "note": "You can use regular Gouda if you prefer."
+        },
+        {
+          "name": "Fontina",
+          "quantity": "12 oz",
+          "state": "divided"
+        }
+      ]
+    },
+    {
+      "category": "The Rest",
+      "items": [
+        {
+          "name": "Elbow macaroni",
+          "quantity": "16 oz (1 lb)"
+        },
+        {
+          "name": "Butter",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Fat Free Evaporated Skim Milk",
+          "quantity": "2 cans"
+        }
+      ]
+    },
+    {
+      "category": "Not Pictured",
+      "items": [
+        {
+          "name": "Salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Parsley",
+          "quantity": "for garnish"
+        }
+      ]
+    }
+  ]
+}

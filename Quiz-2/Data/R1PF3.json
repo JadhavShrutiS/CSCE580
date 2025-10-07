@@ -1,0 +1,109 @@
+{
+  "R3_version": "1.0",
+  "recipe_name": "Macaroni and Cheese",
+  "summary": "Amazing mac and cheese recipe with a 5:1 cheese-to-pasta ratio — the ultimate tour of Italian greatness in America.",
+  "description": "A rich and creamy macaroni and cheese made with gouda, cream, ricotta, monterey jack, and fontina cheeses, garnished with parsley. Perfect for a cozy night at home or a potluck dish that impresses every time.",
+  "context": {
+    "author_comment": "Sure, the boxed version works, but homemade mac and cheese made from scratch with quality cheese is unbeatable. With dairy and starch as the two main groups, there’s nothing holding you back.",
+    "serving_context": "Ideal for family dinners, movie nights, or potlucks. Always a favorite with guests."
+  },
+  "metadata": {
+    "difficulty": "Intermediate",
+    "prep_time_min": 20,
+    "cook_time_min": 45,
+    "total_time_min": 65,
+    "servings": 6,
+    "temperature_F": 350,
+    "cuisine": ["Italian-American", "Comfort Food"],
+    "keywords": ["macaroni", "cheese", "pasta", "baked", "homemade"]
+  },
+  "ingredients": [
+    {
+      "category": "Cheeses",
+      "items": [
+        { "name": "Cream", "quantity": "3 oz" },
+        { "name": "Ricotta", "quantity": "6 oz" },
+        { "name": "Monterey Jack", "quantity": "8 oz" },
+        { "name": "Smoked Gouda (divided)", "quantity": "12 oz", "note": "You can use regular Gouda if preferred." },
+        { "name": "Fontina (divided)", "quantity": "12 oz" }
+      ]
+    },
+    {
+      "category": "The Rest",
+      "items": [
+        { "name": "Elbow macaroni", "quantity": "16 oz (1 lb)" },
+        { "name": "Butter", "quantity": "2 tbsp" },
+        { "name": "Fat Free Evaporated Skim Milk", "quantity": "2 cans" }
+      ]
+    },
+    {
+      "category": "Not Pictured",
+      "items": [
+        { "name": "Salt", "quantity": "to taste" },
+        { "name": "Pepper", "quantity": "to taste" },
+        { "name": "Parsley", "quantity": "for garnish" }
+      ]
+    }
+  ],
+  "tools": [
+    "Large pot",
+    "9x13 inch baking dish",
+    "Colander"
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "title": "Preparation",
+      "actions": [
+        "Separate and grate 4 oz of Fontina and 4 oz of Gouda to use later.",
+        "Slice or crumble hard cheeses so they melt more easily.",
+        "Perform this while water is heating for boiling."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Boil the Mac",
+      "actions": [
+        "Cook macaroni noodles according to package directions, but reduce the cook time by 1 minute.",
+        "Drain noodles in a colander and return them to the pot.",
+        "Note: noodles will continue to cook in the oven."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Add Ingredients",
+      "actions": [
+        "Preheat oven to 350°F.",
+        "Add butter and evaporated milk to the noodles, stirring until butter melts.",
+        "Add all the cream, ricotta, and Monterey Jack cheese.",
+        "Add 8 oz of Gouda and 8 oz of Fontina; stir until mostly melted.",
+        "Season with salt, pepper, and parsley to taste.",
+        "Mix thoroughly until smooth and combined."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bake the Mac and Cheese",
+      "actions": [
+        "Pour the noodle mixture into a 9x13 baking dish.",
+        "Sprinkle the top with 4 oz grated Gouda and 4 oz grated Fontina.",
+        "Bake for 30 minutes, then check for golden brown color.",
+        "If not golden, bake for another 5 minutes and check again every 5 minutes.",
+        "When golden brown, remove from oven and let cool slightly before serving."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Serve and Enjoy",
+      "actions": [
+        "Dish out portions and garnish with parsley.",
+        "Enjoy your mac and cheese while warm."
+      ]
+    }
+  ],
+  "notes": [
+    "Smoked Gouda gives a slightly smoky flavor; use regular Gouda for a milder taste.",
+    "Pairs well with salad or roasted vegetables.",
+    "Everyone who’s tried this has loved it — it’s always a hit."
+  ]
+}

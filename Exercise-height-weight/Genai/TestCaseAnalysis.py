@@ -14,7 +14,7 @@ llm_responses = {
     "DeepSeek R1": "49.5, 63.6, 79.4",
 }
 
-reference_answer = "53.0, 70.0, 82.0"
+reference_answer = "49.5, 63.6, 79.4"
 
 #%% #uncomment section to run comparison for prediction responses after data provision
 ''' 

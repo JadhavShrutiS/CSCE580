@@ -1,0 +1,112 @@
+{
+  "R3_version": "1.0",
+  "recipe": {
+    "name": "Macaroni and Cheese",
+    "description": "Amazing mac and cheese recipe with a 5:1 cheese-to-pasta ratio — the ultimate tour of Italian greatness in America. A rich, creamy blend of gouda, cream, ricotta, monterey jack, and fontina cheeses, finished with parsley for garnish.",
+    "context": {
+      "author_comment": "Sure, the boxed mac gets the job done, but homemade from scratch is unbeatable. With ingredients from just two main food groups — dairy and starch — there’s no reason not to try.",
+      "serving_context": "Perfect for a cozy night watching movies at home or for sharing at a potluck. Always a crowd-pleaser.",
+      "flavor_notes": "Creamy, cheesy, and slightly smoky if using smoked gouda."
+    },
+    "metadata": {
+      "difficulty": "Intermediate",
+      "prep_time_min": 20,
+      "cook_time_min": 45,
+      "total_time_min": 65,
+      "temperature_F": 350,
+      "servings": 6,
+      "cuisine": ["Italian-American", "Comfort Food", "Pasta"],
+      "keywords": ["macaroni", "cheese", "baked pasta", "comfort food"]
+    },
+    "ingredients": {
+      "Cheeses": [
+        { "name": "Cream", "quantity": "3 oz" },
+        { "name": "Ricotta", "quantity": "6 oz" },
+        { "name": "Monterey Jack", "quantity": "8 oz" },
+        { "name": "Smoked Gouda (divided)", "quantity": "12 oz", "note": "use regular Gouda if preferred" },
+        { "name": "Fontina (divided)", "quantity": "12 oz" }
+      ],
+      "Rest": [
+        { "name": "Elbow macaroni", "quantity": "16 oz (1 lb)" },
+        { "name": "Butter", "quantity": "2 tbsp" },
+        { "name": "Fat Free Evaporated Skim Milk", "quantity": "2 cans" }
+      ],
+      "Seasoning": [
+        { "name": "Salt", "quantity": "to taste" },
+        { "name": "Pepper", "quantity": "to taste" },
+        { "name": "Parsley", "quantity": "for garnish" }
+      ]
+    },
+    "tools": [
+      "Large pot (enough to fit all ingredients)",
+      "9x13 inch baking dish",
+      "Colander"
+    ],
+    "steps": [
+      {
+        "id": 1,
+        "title": "Ingredients",
+        "instructions": [
+          "Gather and measure all ingredients as listed.",
+          "Prepare tools including pot, baking dish, and colander."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Preparation",
+        "instructions": [
+          "Separate and grate 4 oz of Fontina and 4 oz of Gouda for topping.",
+          "Slice or crumble hard cheeses to help them melt faster.",
+          "Perform these tasks while water begins to heat for boiling."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Boil the Mac",
+        "instructions": [
+          "Cook macaroni noodles one minute less than the time indicated on the box.",
+          "Drain noodles in a colander and return them to the pot.",
+          "Note: Noodles will continue to cook in the oven."
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Adding Ingredients",
+        "instructions": [
+          "Preheat oven to 350°F.",
+          "Add butter and evaporated milk to noodles; stir until butter melts.",
+          "Add all cream, ricotta, and Monterey Jack cheese.",
+          "Add 8 oz of Gouda and 8 oz of Fontina; stir until mostly melted.",
+          "Season with salt, pepper, and parsley to taste.",
+          "Mix thoroughly to ensure even coating."
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Swapping Containers",
+        "instructions": [
+          "Transfer noodle mixture from pot to 9x13 baking dish.",
+          "Sprinkle 4 oz grated Gouda and 4 oz grated Fontina evenly on top.",
+          "Place baking dish in preheated oven.",
+          "Bake for 30 minutes, then check the top.",
+          "If not golden brown, bake for another 5 minutes and recheck every 5 minutes.",
+          "Remove from oven once golden brown (should not exceed 45 minutes total).",
+          "Let cool slightly before serving."
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Enjoy",
+        "instructions": [
+          "Dish out servings and enjoy your mac and cheese.",
+          "Optionally garnish with extra parsley before serving."
+        ]
+      }
+    ],
+    "notes": [
+      "Smoked Gouda gives a rich, smoky depth, but regular Gouda can be used for a milder flavor.",
+      "This dish pairs well with salad or roasted vegetables.",
+      "Everyone who has tried it has enjoyed it immensely."
+    ]
+  }
+}
