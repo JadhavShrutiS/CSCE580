@@ -1,0 +1,89 @@
+{
+  "R3_recipe": {
+    "id": "vegetable_fried_rice_001",
+    "title": "Vegetable Fried Rice",
+    "description": "A simple and flavorful vegetable fried rice recipe made with eggs, mixed vegetables, butter, and soy sauce — perfect for a quick, homemade meal.",
+    "ingredients": [
+      { "id": "i1", "item": "uncooked rice", "quantity": "1 1/2 cups" },
+      { "id": "i2", "item": "eggs", "quantity": "2" },
+      { "id": "i3", "item": "carrot", "quantity": "1/2" },
+      { "id": "i4", "item": "green pepper", "quantity": "1/2" },
+      { "id": "i5", "item": "mushrooms", "quantity": "6" },
+      { "id": "i6", "item": "green onions", "quantity": "3" },
+      { "id": "i7", "item": "zucchini", "quantity": "1/2" },
+      { "id": "i8", "item": "butter", "quantity": "2 tablespoons" },
+      { "id": "i9", "item": "soy sauce", "quantity": "1/4 cup" },
+      { "id": "i10", "item": "water", "quantity": "2 to 3 cups" }
+    ],
+    "steps": [
+      {
+        "step_id": "s1",
+        "title": "Get Your Ingredients",
+        "details": [
+          "Gather all ingredients: 1 1/2 cups uncooked rice, 2 eggs, 1/2 carrot, 1/2 green pepper, 6 mushrooms, 3 green onions, 1/2 zucchini, 2 tablespoons butter, 1/4 cup soy sauce, and 2 to 3 cups water."
+        ]
+      },
+      {
+        "step_id": "s2",
+        "title": "Prepare Your Rice and Vegetables",
+        "details": [
+          "Cook 1 1/2 cups rice according to package instructions using 2–3 cups water depending on rice type.",
+          "Bring water to a boil, add rice, stir for 30 seconds, remove from heat, and cover with lid until cooked.",
+          "Tip: Use a rice cooker for easier cooking.",
+          "Chop 1/2 green pepper, 3 green onions, 6 mushrooms, and 1/2 zucchini into 1/4-inch pieces.",
+          "Grate 1/2 carrot using a grater."
+        ]
+      },
+      {
+        "step_id": "s3",
+        "title": "Prepare Eggs",
+        "details": [
+          "Scramble 2 eggs in a separate pan until cooked through."
+        ]
+      },
+      {
+        "step_id": "s4",
+        "title": "Grill Vegetables and Eggs",
+        "details": [
+          "Once rice is cooked, place vegetables, 1 tablespoon butter, and scrambled eggs in a wok or large pan.",
+          "Grill for 5 minutes over medium-high heat, stirring constantly."
+        ]
+      },
+      {
+        "step_id": "s5",
+        "title": "Fry Rice",
+        "details": [
+          "Add cooked rice to the wok with vegetables and eggs.",
+          "Add remaining 1 tablespoon butter and stir well.",
+          "Cook for 5 minutes over medium-high heat, stirring occasionally."
+        ]
+      },
+      {
+        "step_id": "s6",
+        "title": "Stir in Soy Sauce",
+        "details": [
+          "Add 1/4 cup soy sauce to the fried rice and stir until evenly mixed."
+        ]
+      },
+      {
+        "step_id": "s7",
+        "title": "Serve Yourselves",
+        "details": [
+          "Serve the fried rice hot in bowls.",
+          "Tip: Provide extra soy sauce for those who prefer a stronger flavor."
+        ]
+      }
+    ],
+    "metadata": {
+      "servings": "2–3",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty": "Easy",
+      "category": "Main Course",
+      "cuisine": "Asian",
+      "created_by": "R3_Conversion_System",
+      "version": "1.0"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "recipe": {
+    "title": "Vegetable Fried Rice",
+    "description": "A flavorful homemade vegetable fried rice made with eggs, fresh vegetables, and soy sauce, perfect for a quick and easy meal.",
+    "ingredients": [
+      {
+        "name": "uncooked rice",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1/2"
+      },
+      {
+        "name": "green pepper",
+        "quantity": "1/2"
+      },
+      {
+        "name": "mushrooms",
+        "quantity": "6"
+      },
+      {
+        "name": "green onions",
+        "quantity": "3"
+      },
+      {
+        "name": "zucchini",
+        "quantity": "1/2"
+      },
+      {
+        "name": "butter",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "water",
+        "quantity": "2 to 3 cups"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Get Your Ingredients",
+        "instructions": [
+          "Gather all ingredients listed below:",
+          "1 1/2 cups of uncooked rice, 2 eggs, 1/2 carrot, 1/2 green pepper, 6 mushrooms, 3 green onions, 1/2 zucchini, 2 tablespoons butter, 1/4 cup soy sauce, and 2 to 3 cups water."
+        ]
+      },
+      {
+        "step_number": 2,
+        "title": "Prepare Your Rice and Vegetables",
+        "instructions": [
+          "Prepare 1 1/2 cups of rice according to package directions. Check rice packaging for water ratio (usually 2 to 3 cups).",
+          "Bring water to a boil, add rice, stir for 30 seconds, remove from heat, and cover with lid until cooked to your liking.",
+          "*Hint: Use a rice cooker if possible for easier cooking.*",
+          "Chop 1/2 green pepper, 3 green onions, 6 mushrooms, and 1/2 zucchini into 1/4 inch pieces.",
+          "Grate 1/2 carrot using a cheese or vegetable grater."
+        ]
+      },
+      {
+        "step_number": 3,
+        "title": "Prepare Eggs",
+        "instructions": [
+          "Scramble 2 eggs in a separate pan until cooked through."
+        ]
+      },
+      {
+        "step_number": 4,
+        "title": "Grill Vegetables and Eggs",
+        "instructions": [
+          "When rice has finished cooking, add chopped vegetables, 1 tablespoon of butter, and scrambled eggs to a wok or large pan.",
+          "Grill for 5 minutes over medium-high heat, stirring constantly."
+        ]
+      },
+      {
+        "step_number": 5,
+        "title": "Fry Rice",
+        "instructions": [
+          "Add the cooked rice to the wok with grilled vegetables and scrambled eggs.",
+          "Add remaining 1 tablespoon of butter and stir into the mixture.",
+          "Cook for 5 minutes over medium-high heat, stirring occasionally."
+        ]
+      },
+      {
+        "step_number": 6,
+        "title": "Stir in Soy Sauce",
+        "instructions": [
+          "Stir in 1/4 cup soy sauce into the fried rice.",
+          "Mix thoroughly so that the soy sauce is evenly distributed."
+        ]
+      },
+      {
+        "step_number": 7,
+        "title": "Serve Yourselves",
+        "instructions": [
+          "Serve yourselves a bowl of delicious vegetable fried rice.",
+          "*Hint: Offer extra soy sauce on the side for those who like more flavor.*"
+        ]
+      }
+    ],
+    "notes": [
+      "You can customize this recipe by adding tofu, chicken, or shrimp.",
+      "Leftovers can be stored in an airtight container in the refrigerator for up to 3 days."
+    ],
+    "metadata": {
+      "servings": "2 to 3",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty": "Easy",
+      "category": "Main Course",
+      "cuisine": "Asian"
+    }
+  }
+}

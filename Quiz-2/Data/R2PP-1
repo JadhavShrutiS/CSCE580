@@ -1,0 +1,16 @@
+{
+  "R3": {
+    "ingredients": [
+      { "name": "uncooked rice", "amount": "1 1/2 cups" },
+      { "name": "eggs", "amount": "2" },
+      { "name": "carrot", "amount": "1/2" },
+      { "name": "green pepper", "amount": "1/2" },
+      { "name": "mushrooms", "amount": "6" },
+      { "name": "green onions", "amount": "3" },
+      { "name": "zucchini", "amount": "1/2" },
+      { "name": "butter", "amount": "2 tablespoons" },
+      { "name": "soy sauce", "amount": "1/4 cup" },
+      { "name": "water", "amount": "2 to 3 cups" }
+    ]
+  }
+}

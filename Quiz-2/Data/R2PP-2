@@ -1,0 +1,63 @@
+{
+  "R3": {
+    "method": [
+      {
+        "step": 1,
+        "title": "Get Your Ingredients",
+        "actions": [
+          "Gather all ingredients: 1 1/2 cups uncooked rice, 2 eggs, 1/2 carrot, 1/2 green pepper, 6 mushrooms, 3 green onions, 1/2 zucchini, 2 tablespoons butter, 1/4 cup soy sauce, and 2 to 3 cups water."
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Prepare Your Rice and Vegetables",
+        "actions": [
+          "Cook 1 1/2 cups of rice according to package directions using 2–3 cups of water depending on rice type.",
+          "Bring water to a boil, add rice, stir for 30 seconds, remove from heat, and cover with a lid until cooked.",
+          "Hint: Use a rice cooker if possible.",
+          "Chop 1/2 green pepper, 3 green onions, 6 mushrooms, and 1/2 zucchini into 1/4-inch pieces.",
+          "Grate 1/2 carrot using a grater."
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Prepare Eggs",
+        "actions": [
+          "Scramble 2 eggs in a separate pan until cooked through."
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Grill Vegetables and Eggs",
+        "actions": [
+          "Place chopped vegetables, 1 tablespoon of butter, and scrambled eggs in a wok or large pan.",
+          "Grill for 5 minutes over medium-high heat, stirring constantly."
+        ]
+      },
+      {
+        "step": 5,
+        "title": "Fry Rice",
+        "actions": [
+          "Add the cooked rice to the wok with grilled vegetables and scrambled eggs.",
+          "Add the remaining 1 tablespoon of butter and mix well.",
+          "Cook for 5 minutes over medium-high heat, stirring occasionally."
+        ]
+      },
+      {
+        "step": 6,
+        "title": "Stir in Soy Sauce",
+        "actions": [
+          "Add 1/4 cup soy sauce to the fried rice and stir until evenly coated."
+        ]
+      },
+      {
+        "step": 7,
+        "title": "Serve Yourselves",
+        "actions": [
+          "Serve hot in bowls.",
+          "Hint: Offer extra soy sauce for those who prefer a stronger flavor."
+        ]
+      }
+    ]
+  }
+}

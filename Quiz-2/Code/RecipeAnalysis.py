@@ -20,4 +20,14 @@ def get_all_json_keys(json_object, parent_key='', keys=None):
 
     return keys
 
-file = './data/R1PF1.json'
+file = 'Quiz-2/Data/R1PF1.json'
+
+with open(file, 'r') as file:
+    data = json.load(file)
+
+
+keys = []
+print (get_all_json_keys(data, keys))
+
+
+data_orginal_recipe_name = data['recipe_name']
