@@ -25,3 +25,15 @@ Setting 3: huge model size, low batch size, large cloud distance: 4.4 Wh
 1b) Average energy difference across the settings for the models above is between 3 to 5 Wh. 
 On average the LLM consumes higher energy due to its huge model size with about a jump of average 3 Wh from small to huge LLM model.
 
+Q2.b.c.i. The cleaning I did for the "original_recipe1" is deleting the extra information about the author in the beginning and the license and number at the beginning, and options such as "save PDF"
+I had to do less cleaning for "original_recipe2" because it had no such things as "about the author" so the only thing I deleted here is options such as "save PDF" and extra numbers and license floating on top.
+
+Q2.b.c.iii. Three prompts used to get the full R3 file are:
+1) For the given text file, provide a complete R3 json file.
+2) Output a R3 jason file for this recipe.
+3) Provide R3 json.
+
+Q2.b.c.iv: 2 prompts for partial approach
+1) provide ingredients in R3 json
+2) provide recipe method in R3 json
+This case the json files are combined using a simple copy paste approach as mentioned during class time
