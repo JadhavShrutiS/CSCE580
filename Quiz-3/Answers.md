@@ -16,7 +16,7 @@ d) h = min (h1,h2,h3) will be admissible as it will be the lowest value of the r
 1) The code provided implements representation that shows how many cannibals and missionaries are moved in each move. The first number is the number of missionaries (M) and the second is the number of cannibals(C). First it shows boat going from right to left, how many of each M or C it holds. then it shows the boat coming back from left to right, with however many of each passengers. It continues to show this back and forth movement of the boat from bank to bank. It uses a breadth first search strategy. A queue allows us to use a first in first out strategy, so that we can go through the breadth of the search tree
 
 2) Done in code
-I decided to use a depth first search. Since stack data structure already holds the last in first out idea, it is the easiest to use a stack to 
+I decided to use a depth first search. Since stack data structure already holds the last in first out idea, it is the easiest to use a stack to follow th last in first out.
 
 
 3) Done in code
