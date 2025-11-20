@@ -12,7 +12,7 @@ _ // Review sentiment deciphering- easy level._
 -// Objective of the test case is to check what sentiment the trained models provide for a certain review, easy complexity.
 
 ### 4. TC-input: 
-_ // While I hoped I would be wrong, I anticipated not being a fan of Wicked For Good…unfortunately, despite Ariana Grande and Cynthia Erivo singing their hearts out, it was a bit of a mess.
+_ // Review: "While I hoped I would be wrong, I anticipated not being a fan of Wicked For Good…unfortunately, despite Ariana Grande and Cynthia Erivo singing their hearts out, it was a bit of a mess."
 
 ### 5. TC-reference-output: 
 _ // Reference output is the Classical Machine Learning, SVM output: negative
