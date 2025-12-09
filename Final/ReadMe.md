@@ -1,4 +1,4 @@
-## CSCE 580
+## CSCE 580- Final Exam
 ### Shruti Jadhav
 
 The responses are provided in pdf "FinalExam_Response_ShrutiJ.pdf"
